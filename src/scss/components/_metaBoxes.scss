@@ -1,0 +1,20 @@
+.couponsMeta{
+
+    &__group{
+        margin-bottom: 20px;
+    }
+
+    &__label{
+        display: block;
+        font-size: 1.125rem;
+        margin-bottom: 5px;
+    }
+
+    &__field{
+        width: 100%;
+        max-width: 350px;
+        height: 40px;
+        border-radius: 10px;
+    }
+
+}
